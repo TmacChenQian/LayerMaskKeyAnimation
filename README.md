@@ -5,4 +5,4 @@
  
 	可以发现 mask 也是一个 CALayer
 
-![image]()
+![image](https://github.com/TmacChenQian/LayerMaskKeyAnimation/blob/master/mask.gif)
